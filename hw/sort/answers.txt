@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: Comparable time to sort3 on randomized input but way faster in best-case scenario (sorted input)
+
+sort2 uses: Merge Sort
+
+How do you know?: Fastest time on all the randomized inputs.
+
+sort3 uses: Selection Sort
+
+How do you know?: Slow even in the best-case scenario (sorted input)
